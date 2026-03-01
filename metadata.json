@@ -1,0 +1,5 @@
+{
+  "name": "Claw Soul Forge",
+  "description": "An app that generates specialized system prompts ('souls') for AI agents with a crustacean-themed interface.",
+  "requestFramePermissions": []
+}
